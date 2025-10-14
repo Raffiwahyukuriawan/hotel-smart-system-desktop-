@@ -1,0 +1,152 @@
+﻿<UserControl x:Class="HSS_desktop.RiwayatKamarUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <StackPanel Margin="20">
+        <!-- Header -->
+        <DockPanel Margin="0,0,0,15">
+            <TextBlock Text="Riwayat Kamar"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       Foreground="#111827"
+                       VerticalAlignment="Center"
+                       DockPanel.Dock="Left"/>
+        </DockPanel>
+
+        <!-- Tabel -->
+        <DataGrid x:Name="RiwayatGrid"
+                  ItemsSource="{Binding RiwayatList}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  HeadersVisibility="Column"
+                  GridLinesVisibility="None"
+                  BorderThickness="0"
+                  RowHeight="40"
+                  FontSize="13"
+                  Background="White"
+                  AlternatingRowBackground="#FAFAFA">
+
+            <!-- Header Style -->
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#F9FAFB"/>
+                    <Setter Property="Foreground" Value="#111827"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="FontSize" Value="13"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                    <Setter Property="Padding" Value="10,5"/>
+                    <Setter Property="BorderBrush" Value="#E5E7EB"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <!-- Style Baris -->
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#e6f0ff"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Padding" Value="12,0,0,0"/>
+                </Style>
+            </DataGrid.Resources>
+
+            <!-- Kolom Data -->
+            <DataGrid.Columns>
+                <!-- No -->
+                <DataGridTemplateColumn Header="No" Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding No}"
+                           VerticalAlignment="Center"
+                           Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Kamar -->
+                <DataGridTemplateColumn Header="Kamar" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding nama_kamar}"
+                       VerticalAlignment="Center"
+                       Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Tamu -->
+                <DataGridTemplateColumn Header="Tamu" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding nama_tamu}"
+                       VerticalAlignment="Center"
+                       Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Check In -->
+                <DataGridTemplateColumn Header="Check In" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding CheckIn, StringFormat={}{0:dd/MM/yyyy HH:mm}}"
+                           VerticalAlignment="Center"
+                           Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Check Out -->
+                <DataGridTemplateColumn Header="Check Out" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding CheckOut, StringFormat={}{0:dd/MM/yyyy HH:mm}}"
+                           VerticalAlignment="Center"
+                           Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Status -->
+                <DataGridTemplateColumn Header="Status" Width="140">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Status}"
+                           VerticalAlignment="Center"
+                           Padding="12,0,0,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Aksi -->
+                <DataGridTemplateColumn Header="Aksi" Width="140">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                <Button Content="✏️" Margin="2" Padding="5,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            Click="Edit_Click"/>
+                                <Button Content="🗑" Margin="2" Padding="5,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="Red"
+                            Cursor="Hand"
+                            Click="Delete_Click"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>

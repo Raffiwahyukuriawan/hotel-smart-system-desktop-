@@ -1,0 +1,157 @@
+﻿<Page x:Class="HSS_desktop.MejaPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Manajemen Meja"
+      Width="1070">
+
+    <ScrollViewer Padding="20" Width="1070">
+        <StackPanel>
+            <!-- Card Container -->
+            <Border Background="White" CornerRadius="8" Padding="20" BorderBrush="#E5E7EB" BorderThickness="1">
+                <StackPanel>
+
+                    <!-- Header + tombol -->
+                    <DockPanel Margin="0,0,0,15">
+                        <TextBlock Text="Manajemen Meja"
+                                   FontSize="16"
+                                   FontWeight="Bold"
+                                   Foreground="#111827"
+                                   VerticalAlignment="Center"
+                                   DockPanel.Dock="Left"/>
+                        <Button Content="＋ Tambah Meja"
+                                Background="#111827"
+                                Foreground="White"
+                                Padding="10,5"
+                                FontWeight="Bold"
+                                Width="160"
+                                Height="35"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                HorizontalAlignment="Right"
+                                DockPanel.Dock="Right"
+                                Click="TambahMeja_Click"/>
+                    </DockPanel>
+
+                    <!-- Tabel -->
+                    <DataGrid x:Name="MejaGrid"
+                              ItemsSource="{Binding Mejas}"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              CanUserDeleteRows="False"
+                              IsReadOnly="True"
+                              Margin="0,20,0,0"
+                              SelectionMode="Single"
+                              HeadersVisibility="Column"
+                              GridLinesVisibility="None"
+                              BorderThickness="0"
+                              RowHeight="40"
+                              FontSize="13"
+                              Background="White"
+                              AlternatingRowBackground="#FAFAFA">
+
+                        <!-- Header Style -->
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Background" Value="#F9FAFB"/>
+                                <Setter Property="Foreground" Value="#111827"/>
+                                <Setter Property="FontWeight" Value="SemiBold"/>
+                                <Setter Property="FontSize" Value="13"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                <Setter Property="Padding" Value="10,5"/>
+                                <Setter Property="BorderBrush" Value="#E5E7EB"/>
+                                <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+
+                        <DataGrid.Resources>
+                            <Style TargetType="DataGridRow">
+                                <Setter Property="Background" Value="Transparent"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#e6f0ff"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Padding" Value="12,0,0,0"/>
+                            </Style>
+                        </DataGrid.Resources>
+
+                        <!-- Kolom Data -->
+                        <DataGrid.Columns>
+                            <!-- ID -->
+                            <DataGridTemplateColumn Header="ID" Width="50">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Id}" VerticalAlignment="Center" Padding="12,0,0,0"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Nama Meja -->
+                            <DataGridTemplateColumn Header="Nama Meja" Width="*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding NamaMeja}" VerticalAlignment="Center" Padding="12,0,0,0"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Kapasitas -->
+                            <DataGridTemplateColumn Header="Kapasitas" Width="100">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Kapasitas}" VerticalAlignment="Center" Padding="12,0,0,0"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Status -->
+                            <DataGridTemplateColumn Header="Status" Width="*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Border Background="{Binding StatusColor}"
+                        CornerRadius="10"
+                        Padding="10,10,0,0"
+                        HorizontalAlignment="Left">
+                                            <TextBlock Text="{Binding Status}"
+                               FontSize="12"
+                               HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Aksi -->
+                            <DataGridTemplateColumn Header="Aksi" Width="140">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                            <Button Content="✏️"
+                            Margin="2"
+                            Padding="5,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            Click="Edit_Click"/>
+                                            <Button Content="🗑"
+                            Margin="2"
+                            Padding="5,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="Red"
+                            Cursor="Hand"
+                            Click="Delete_Click"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

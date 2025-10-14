@@ -1,0 +1,186 @@
+﻿<Window x:Class="HSS_desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+        Title="HSS Dashboard" Height="720" Width="1280" Background="#F8FAFC" Loaded="Page_Loaded">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+        <!-- Style Sidebar Button -->
+        <Style x:Key="SidebarButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="#111827"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Padding" Value="12 8"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                CornerRadius="6"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#E5E7EB"/>
+                    <!-- hover abu -->
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#2563EB"/>
+                    <!-- biru aktif -->
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <DropShadowEffect x:Key="DropShadow"
+                      BlurRadius="8"
+                      ShadowDepth="2"
+                      Opacity="0.3"
+                      Color="Black"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="295"/>
+            <!-- Sidebar -->
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="131*"/>
+            <!-- Main Content -->
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="74"/>
+            <!-- Navbar -->
+            <RowDefinition/>
+            <!-- Konten -->
+        </Grid.RowDefinitions>
+
+        <!-- Sidebar -->
+        <Border BorderBrush="#E5E7EB" BorderThickness="0,0,1,0" Background="White" Grid.Column="0" Grid.RowSpan="2">
+            <StackPanel>
+                <TextBlock Text="Hotel Smart System"
+                       FontSize="16" FontWeight="Bold"
+                       Foreground="#111827"
+                       Margin="20 20 20 10"/>
+
+                <TextBlock Text="Dashboard Admin"
+                       FontSize="12"
+                       Foreground="#6B7280"
+                       Margin="20 0 20 20"/>
+
+                <!-- Menu Buttons -->
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnDashboard_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="🏠" Margin="0,0,8,0"/>
+                        <TextBlock Text="Dashboard"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnTamu_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="👤" Margin="0,0,8,0"/>
+                        <TextBlock Text="Manajemen Tamu"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnKamar_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="🛏" Margin="0,0,8,0"/>
+                        <TextBlock Text="Manajemen Kamar"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnFoodDrink_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="🍽️" Margin="0,0,8,0"/>
+                        <TextBlock Text="Makanan &amp; Minuman"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnMeja_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="🍴" Margin="0,0,8,0"/>
+                        <TextBlock Text="Manajemen Meja"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="About_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="🏨" Margin="0,0,8,0"/>
+                        <TextBlock Text="Info Hotel"/>
+                    </StackPanel>
+                </Button>
+
+                <Button Style="{StaticResource SidebarButtonStyle}" Margin="10 2" Click="BtnUser">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="👥" Margin="0,0,8,0"/>
+                        <TextBlock Text="Manajemen User"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Border>
+
+        <!-- Navbar -->
+        <Border Grid.Column="1" Grid.Row="0" Background="White"
+        BorderBrush="#E5E7EB" BorderThickness="0,0,0,1" Grid.ColumnSpan="2">
+
+            <Grid Margin="10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <!-- Judul -->
+                    <ColumnDefinition Width="*"/>
+                    <!-- Tengah (search bar) -->
+                    <ColumnDefinition Width="Auto"/>
+                    <!-- Kanan (notif + user) -->
+                </Grid.ColumnDefinitions>
+
+                <!-- Judul + tanggal -->
+                <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center">
+                    <TextBlock x:Name="NavbarTextBlock"
+                       Text="Dashboard"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="#111827"/>
+                    <TextBlock x:Name="DateTextBlock"
+                       FontSize="12"
+                       Foreground="#6B7280"/>
+                </StackPanel>
+
+               
+                <!-- Notifikasi + User Info -->
+                <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,20,0">
+                    <!-- Icon Notifikasi -->
+                    <Button Content="🔔" Width="32" Height="32"
+                    Background="Transparent" BorderThickness="0" 
+                    FontSize="16" Margin="0,0,10,0"/>
+
+                    <!-- User Info -->
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <Ellipse Width="35" Height="35" Fill="#2563EB"/>
+                        <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                            <TextBlock x:Name="txtUsername"
+           FontSize="14"
+           FontWeight="SemiBold"
+           Foreground="#111827"/>
+                            <TextBlock x:Name="txtRole"
+           FontSize="12"
+           Foreground="#6B7280"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+
+        <!-- Main Content -->
+        <Frame x:Name="MainFrame" 
+               Grid.Column="1" 
+               NavigationUIVisibility="Hidden" Navigated="MainFrame_Navigated" Grid.ColumnSpan="2" Grid.Row="1"/>
+    </Grid>
+</Window>

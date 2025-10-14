@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Update="about\AboutPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="about\TambahAbout.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="about\UpdateAbout.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="foodDrink\riawyatFoodDrink\OrderHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="foodDrink\riawyatFoodDrink\UpdateHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="foodDrink\TambahFoodDrink.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="foodDrink\UpdateFoodDrink.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\kategori\TambahKategori.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\kategori\UpdateKategori.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\ManajemenKamar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\riwayat\RiwayatKamar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\riwayat\UpdateRiwayat.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\TambahKamar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="kamar\UpdateKamar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="mejas\MejaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="mejas\TambahMeja.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="mejas\UpdateMeja.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="tamu\Invoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="tamu\InvoiceKamar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="tamu\InvoiceMakanan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="user\TambahUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="user\UpdateUserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="user\UserForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="user\UserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="kamar\riwayat\RiwayatKamar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="user\UpdateUserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="user\UserForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="user\UserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

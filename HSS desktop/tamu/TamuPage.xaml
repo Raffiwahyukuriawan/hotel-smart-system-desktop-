@@ -1,0 +1,182 @@
+﻿<Page x:Class="HSS_desktop.TamuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Manajemen Tamu"
+      Background="#F9FAFB"
+      Width="1070">
+
+    <ScrollViewer Padding="20" Width="1070">
+        <StackPanel>
+            <!-- Kartu utama -->
+            <Border Background="White"
+                    CornerRadius="10"
+                    Padding="20"
+                    BorderBrush="#E5E7EB"
+                    BorderThickness="1">
+                <StackPanel>
+                    <!-- Header dan tombol tambah -->
+                    <DockPanel Margin="0,0,0,15">
+                        <TextBlock Text="Manajemen Tamu"
+                                   FontSize="16"
+                                   FontWeight="Bold"
+                                   Foreground="#111827"
+                                   VerticalAlignment="Center"
+                                   DockPanel.Dock="Left"/>
+                        <Button Content="+ Tambah Tamu"
+                                Background="#111827"
+                                Foreground="White"
+                                Padding="10,6"
+                                FontWeight="SemiBold"
+                                Width="140"
+                                Height="35"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                HorizontalAlignment="Right"
+                                DockPanel.Dock="Right"
+                                Click="TambahTamu_Click"/>
+                    </DockPanel>
+
+                    <!-- DataGrid -->
+                    <DataGrid x:Name="GuestGrid"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              CanUserDeleteRows="False"
+                              IsReadOnly="True"
+                              SelectionMode="Single"
+                              HeadersVisibility="Column"
+                              GridLinesVisibility="None"
+                              BorderThickness="0"
+                              RowHeight="40"
+                              FontSize="13"
+                              Background="White"
+                              AlternatingRowBackground="#FAFAFA"
+                              RowBackground="White"
+                              ItemsSource="{Binding TamuList}">
+
+                        <!-- Header style -->
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Background" Value="#F9FAFB"/>
+                                <Setter Property="Foreground" Value="#111827"/>
+                                <Setter Property="FontWeight" Value="SemiBold"/>
+                                <Setter Property="FontSize" Value="13"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="12,0,0,0"/>
+                                <Setter Property="BorderBrush" Value="#E5E7EB"/>
+                                <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                                <Setter Property="Height" Value="40"/>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+
+                        <!-- Row & Cell Style -->
+                        <DataGrid.Resources>
+                            <!-- Baris -->
+                            <Style TargetType="DataGridRow">
+                                <Setter Property="SnapsToDevicePixels" Value="True"/>
+                                <Setter Property="Background" Value="Transparent"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#EEF2FF"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+
+                            <!-- Sel -->
+                            <Style TargetType="DataGridCell">
+                                <Setter Property="Padding" Value="12,0,0,0"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="BorderThickness" Value="0"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                            </Style>
+
+                            <!-- Teks di dalam sel -->
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="50"/>
+                                <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+                            </Style>
+                        </DataGrid.Resources>
+
+                        <!-- Kolom -->
+                        <DataGrid.Columns>
+                            <!-- Kolom No -->
+                            <DataGridTemplateColumn Header="ID" Width="1*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding No}" Padding="12,0,0,0" VerticalAlignment="Center"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            
+                            <!-- Kolom Nama Pemesan -->
+                            <DataGridTemplateColumn Header="Nama Pemesan" Width="2*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding NamaTamu}" Padding="12,0,0,0" VerticalAlignment="Center"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Kolom No. Telepon -->
+                            <DataGridTemplateColumn Header="No. Telepon" Width="1.5*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding NoTelp}" Padding="12,0,0,0" VerticalAlignment="Center"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Kolom Jumlah Tamu -->
+                            <DataGridTemplateColumn Header="Jumlah Tamu" Width="1*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding JumlahTamu}" Padding="12,0,0,0" VerticalAlignment="Center"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <!-- Kolom Aksi -->
+                            <DataGridTemplateColumn Header="Aksi" Width="1.5*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                            <Button ToolTip="Lihat Invoice"
+                        Padding="4"
+                        Margin="2"
+                        BorderThickness="0"
+                        Background="Transparent"
+                        Cursor="Hand"
+                        Click="Invoice_Click">
+                                                <TextBlock Text="👁️"/>
+                                            </Button>
+                                            <Button ToolTip="Edit"
+                        Click="Edit_Click"
+                        Padding="4"
+                        Margin="2"
+                        BorderThickness="0"
+                        Background="Transparent"
+                        Cursor="Hand">
+                                                <TextBlock Text="✏️"/>
+                                            </Button>
+                                            <Button ToolTip="Hapus"
+                        Click="Delete_Click"
+                        Padding="4"
+                        Margin="2"
+                        BorderThickness="0"
+                        Background="Transparent"
+                        Cursor="Hand">
+                                                <TextBlock Text="🗑" Foreground="Red"/>
+                                            </Button>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>HSS_desktop</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <StartupObject>HSS_desktop.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="foodDrink\NewFolder\**" />
+    <EmbeddedResource Remove="foodDrink\NewFolder\**" />
+    <None Remove="foodDrink\NewFolder\**" />
+    <Page Remove="foodDrink\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="kamar\deluxe room.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.7.25104.5739" />
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks.FontAwesome" Version="6.1.0" />
+    <PackageReference Include="MaterialDesignColors" Version="5.2.1" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.2.1" />
+    <PackageReference Include="MySql.Data" Version="9.4.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\.jpg" />
+    <Resource Include="kamar\deluxe room.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="foodDrink\TambahMakananMinuman.xaml.cs">
+      <Generator>MSBuild:Compile</Generator>
+    </Compile>
+    <Compile Update="App.cs">
+      <Generator>MSBuild:Compile</Generator>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="kamar\KamarPage - Copy.xaml">
+      <SubType>Code</SubType>
+    </Page>
+    <Page Update="kamar\KamarPage.xaml">
+      <SubType>Code</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+
+</Project>

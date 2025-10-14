@@ -1,0 +1,170 @@
+﻿<Window x:Class="HSS_desktop.InvoiceMakanan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Invoice Makanan &amp; Minuman"
+        Height="700" Width="800"
+        Background="#F5F7FA"
+        WindowStartupLocation="CenterScreen">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Border Background="White" Padding="40" Margin="30"
+                CornerRadius="12"
+                BorderBrush="#E5E7EB"
+                BorderThickness="1">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="15" ShadowDepth="3" Opacity="0.2"/>
+            </Border.Effect>
+
+            <StackPanel>
+
+                <!-- HEADER -->
+                <Grid Margin="0,0,0,30">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel>
+                        <TextBlock Text="INVOICE MAKANAN &amp; MINUMAN"
+                                   FontSize="28"
+                                   FontWeight="Bold"
+                                   Foreground="#1F2937"/>
+                        <Separator Margin="0,10,150,15" Background="#3B82F6" Height="3"/>
+
+                        <StackPanel Margin="5,0,0,0">
+                            <TextBlock>
+                                <Run FontWeight="Bold" Foreground="#374151">Invoice Number:</Run>
+                                <Run x:Name="txtInvoiceNumber" Foreground="#4B5563"/>
+                            </TextBlock>
+                            <TextBlock>
+                                <Run FontWeight="Bold" Foreground="#374151">Tanggal:</Run>
+                                <Run x:Name="txtTanggal" Foreground="#4B5563"/>
+                            </TextBlock>
+                            <TextBlock>
+                                <Run FontWeight="Bold" Foreground="#374151">Jam Makan:</Run>
+                                <Run x:Name="txtJamMakan" Foreground="#4B5563"/>
+                            </TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <Border Grid.Column="1"
+                            Padding="20"
+                            Margin="10,0,0,0"
+                            CornerRadius="10"
+                            Background="#F3F4F6">
+                        <StackPanel HorizontalAlignment="Center">
+                            <TextBlock Text="HOTEL"
+                                       FontWeight="Bold"
+                                       FontSize="16"
+                                       TextAlignment="Center"
+                                       Foreground="#111827"/>
+                            <TextBlock Text="🍽️"
+                                       FontSize="42"
+                                       TextAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+
+                <!-- DETAIL TAMU -->
+                <Border Background="#F9FAFB"
+                        Padding="15"
+                        CornerRadius="8"
+                        BorderBrush="#E5E7EB"
+                        BorderThickness="1"
+                        Margin="0,0,0,20">
+                    <StackPanel>
+                        <TextBlock Text="Detail Tamu"
+                                   FontWeight="Bold"
+                                   FontSize="16"
+                                   Margin="0,0,0,8"
+                                   Foreground="#1F2937"/>
+                        <TextBlock><Run FontWeight="Bold">Nama Tamu:</Run> <Run x:Name="txtNamaTamu"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Jumlah Tamu:</Run> <Run x:Name="txtJumlahTamu"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Nomor Meja:</Run> <Run x:Name="txtMejaId"/></TextBlock>
+                    </StackPanel>
+                </Border>
+
+                <!-- DETAIL PESANAN -->
+                <StackPanel Margin="0,0,0,20">
+                    <TextBlock Text="Detail Pesanan"
+                               FontWeight="Bold"
+                               FontSize="16"
+                               Margin="0,0,0,8"
+                               Foreground="#1F2937"/>
+
+                    <DataGrid x:Name="dataGridPesanan"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              IsReadOnly="True"
+                              GridLinesVisibility="All"
+                              HeadersVisibility="Column"
+                              Margin="0,10,0,10"
+                              BorderThickness="1"
+                              BorderBrush="#E5E7EB"
+                              RowBackground="#FFFFFF"
+                              AlternatingRowBackground="#F9FAFB">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Nama Menu" Binding="{Binding NamaMakananMinuman}" Width="*" />
+                            <DataGridTextColumn Header="Harga (Rp)" Binding="{Binding Harga, StringFormat=N0}" Width="120" />
+                            <DataGridTextColumn Header="Jumlah" Binding="{Binding JumlahDipesan}" Width="100" />
+                            <DataGridTextColumn Header="Status" Binding="{Binding StatusPesanan}" Width="150" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel HorizontalAlignment="Right">
+                        <TextBlock x:Name="txtTotalMenu"
+                                   FontWeight="Bold"
+                                   FontSize="13"
+                                   Foreground="#1F2937"
+                                   Margin="0,5,0,0"/>
+                        <TextBlock x:Name="txtBiayaLayanan"
+                                   FontWeight="Bold"
+                                   FontSize="13"
+                                   Foreground="#1F2937"
+                                   Margin="0,5,0,0"/>
+                        <TextBlock x:Name="txtTotalHarga"
+                                   FontWeight="Bold"
+                                   FontSize="14"
+                                   Foreground="#3B82F6"
+                                   Margin="0,10,0,0"/>
+                    </StackPanel>
+
+                    <Button Content="🖨️ Print Invoice"
+                            Width="150"
+                            Height="35"
+                            Margin="0,15,0,0"
+                            HorizontalAlignment="Right"
+                            Background="#3B82F6"
+                            Foreground="White"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            FontWeight="Bold"
+                            Click="BtnPrint_Click">
+                        <Button.Effect>
+                            <DropShadowEffect BlurRadius="10" ShadowDepth="1" Opacity="0.25"/>
+                        </Button.Effect>
+                    </Button>
+                </StackPanel>
+
+                <!-- FOOTER -->
+                <StackPanel Margin="0,30,0,0">
+                    <!-- Deskripsi Hotel -->
+                    <TextBlock x:Name="txtDeskripsiHotel"
+                        Text="Terima kasih telah menggunakan layanan hotel kami."
+                        FontSize="12"
+                        Foreground="#555"
+                        TextAlignment="Center"
+                        TextWrapping="Wrap"/>
+
+                    <!-- Kontak Hotel -->
+                    <TextBlock x:Name="txtKontakHotel"
+                        Text="📞 +62 123 4567 890 | ✉️ hotel@example.com"
+                        FontSize="11"
+                        Foreground="#777"
+                        TextAlignment="Center"
+                        Margin="0,5,0,0"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </ScrollViewer>
+</Window>

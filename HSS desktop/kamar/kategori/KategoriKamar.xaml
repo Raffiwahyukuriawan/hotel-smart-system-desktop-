@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="HSS_desktop.KategoriKamarUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+        <StackPanel>
+            <!-- Card Container -->
+                <StackPanel Margin="20">
+                    <!-- Header + tombol -->
+            <DockPanel Margin="0,0,0,15">
+                <TextBlock Text="Manajemen Kategori Kamar"
+                                   FontSize="16"
+                                   FontWeight="Bold"
+                                   Foreground="#111827"
+                                   VerticalAlignment="Center"
+                                   DockPanel.Dock="Left"/>
+                <Button Content="＋ Tambah Kategori"
+                                Background="#111827"
+                                Foreground="White"
+                                Padding="10,5"
+                                FontWeight="Bold"
+                                Width="160"
+                                Height="35"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                HorizontalAlignment="Right"
+                                DockPanel.Dock="Right" Click="TambahKategori_Click"/>
+            </DockPanel>
+
+            <!-- Tabel -->
+                    <DataGrid x:Name="KategoriGrid"
+                              ItemsSource="{Binding KamarList}"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              CanUserDeleteRows="False"
+                              IsReadOnly="True"
+                              SelectionMode="Single"
+                              HeadersVisibility="Column"
+                              GridLinesVisibility="None"
+                              BorderThickness="0"
+                              RowHeight="40"
+                              FontSize="13"
+                              Background="White"
+                              AlternatingRowBackground="#FAFAFA">
+
+                        <!-- Header Style -->
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Background" Value="#F9FAFB"/>
+                                <Setter Property="Foreground" Value="#111827"/>
+                                <Setter Property="FontWeight" Value="SemiBold"/>
+                                <Setter Property="FontSize" Value="13"/>
+                                <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                <Setter Property="Padding" Value="10,5"/>
+                                <Setter Property="BorderBrush" Value="#E5E7EB"/>
+                                <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+
+                        <DataGrid.Resources>
+                            <Style TargetType="DataGridRow">
+                                <Setter Property="Background" Value="Transparent"/>
+                                <Setter Property="ToolTip" Value="{Binding Nama}"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#e6f0ff"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Padding" Value="12,0,0,0"/>
+                            </Style>
+                        </DataGrid.Resources>
+
+                <DataGrid.Columns>
+                    <!-- Kolom ID -->
+                    <DataGridTemplateColumn Header="ID" Width="80">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding No}" 
+                           Padding="10,0,0,0"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!-- Kolom Nama -->
+                    <DataGridTemplateColumn Header="Nama" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Nama}" 
+                           Padding="10,0,0,0"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           TextTrimming="CharacterEllipsis"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!-- Kolom Kapasitas -->
+                    <DataGridTemplateColumn Header="Kapasitas" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Kapasitas}" 
+                           Padding="10,0,0,0"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!-- Kolom Harga -->
+                    <DataGridTemplateColumn Header="Harga" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Harga}" 
+                           Padding="10,0,0,0"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <!-- Kolom Aksi -->
+                    <DataGridTemplateColumn Header="Aksi" Width="140">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <Button Content="✏️" Margin="2" Padding="5,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            Click="Edit_Click"/>
+                                    <Button Content="🗑" Margin="2" Padding="1,2"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="Red"
+                            Cursor="Hand"
+                            Click="Delete_Click"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+            </DataGrid>
+                </StackPanel>
+        </StackPanel>
+</UserControl>

@@ -1,0 +1,95 @@
+﻿<Window x:Class="HSS_desktop.foodDrink.TambahFoodDrink"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tambah Makanan/Minuman"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight"
+        AllowsTransparency="True"
+        WindowStyle="None">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Border Background="White" CornerRadius="10" Padding="25" Width="460" BorderBrush="#E5E7EB" BorderThickness="1">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="20" ShadowDepth="0" Opacity="0.6"/>
+            </Border.Effect>
+
+            <StackPanel>
+                <!-- Judul -->
+                <TextBlock Text="Tambah Makanan / Minuman" 
+                           FontSize="18" 
+                           FontWeight="Bold" 
+                           Foreground="#111827"
+                           Margin="0,0,0,20"/>
+
+                <!-- Kategori -->
+                <StackPanel Margin="0 0 0 15">
+                    <TextBlock Text="📦 Kategori" FontSize="14" FontWeight="Bold" Foreground="#374151" Margin="5,0,0,5"/>
+                    <ComboBox x:Name="cmbKategori" Height="40" Width="400">
+                        <ComboBoxItem Content="Makanan"/>
+                        <ComboBoxItem Content="Minuman"/>
+                    </ComboBox>
+                </StackPanel>
+
+                <!-- Foto -->
+                <StackPanel Margin="0 0 0 15">
+                    <TextBlock Text="🖼️ Foto (URL/Path)" FontSize="14" FontWeight="Bold" Foreground="#374151" Margin="5,0,0,5"/>
+                    <TextBox x:Name="txtFoto"
+             FontSize="14"
+             Padding="5"
+             BorderBrush="#ced4da"
+             BorderThickness="1"
+             Width="400"/>
+                </StackPanel>
+
+                <!-- Nama -->
+                <StackPanel Margin="0 0 0 15">
+                    <TextBlock Text="🍽️ Nama" FontSize="14" FontWeight="Bold" Foreground="#374151" Margin="5,0,0,5"/>
+                    <TextBox x:Name="txtNama"
+             FontSize="14"
+             Padding="5"
+             BorderBrush="#ced4da"
+             BorderThickness="1"
+             Width="400"/>
+                </StackPanel>
+
+                <!-- Harga -->
+                <StackPanel Margin="0 0 0 20">
+                    <TextBlock Text="💰 Harga" FontSize="14" FontWeight="Bold" Foreground="#374151" Margin="5,0,0,5"/>
+                    <TextBox x:Name="txtHarga"
+             FontSize="14"
+             Padding="5"
+             BorderBrush="#ced4da"
+             BorderThickness="1"
+             Width="400"
+             PreviewTextInput="NumberOnly_PreviewTextInput"/>
+                </StackPanel>
+
+                <!-- Tombol -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+                    <Button Content="Batal"
+                            Width="90"
+                            Height="32"
+                            Background="White"
+                            Foreground="#374151"
+                            BorderBrush="#D1D5DB"
+                            BorderThickness="1"
+                            Cursor="Hand"
+                            Click="Batal_Click"
+                            FontWeight="Bold"/>
+
+                    <Button Content="Simpan"
+                            Width="90"
+                            Height="32"
+                            Margin="10,0,0,0"
+                            Background="Black"
+                            Foreground="White"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            Click="Simpan_Click"
+                            FontWeight="Bold"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

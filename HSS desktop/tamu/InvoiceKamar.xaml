@@ -1,0 +1,156 @@
+﻿<Window x:Class="HSS_desktop.InvoiceKamar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Invoice Kamar" Height="650" Width="600" Background="#f4f6f9" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <DropShadowEffect x:Key="DropShadow"
+                      BlurRadius="8"
+                      ShadowDepth="2"
+                      Opacity="0.3"
+                      Color="Black"/>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Border x:Name="invoiceContainer"
+                Background="White"
+                Padding="30"
+                Margin="30"
+                CornerRadius="10"
+                BorderBrush="#e0e0e0"
+                BorderThickness="1"
+                Effect="{DynamicResource DropShadow}">
+
+            <StackPanel>
+
+                <!-- HEADER -->
+                <Grid Margin="0,0,0,25">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel>
+                        <TextBlock Text="INVOICE KAMAR" 
+                                   FontSize="32" 
+                                   FontWeight="Bold"
+                                   Foreground="#1E3A8A"
+                                   Margin="0,0,0,10"/>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Invoice number: " FontWeight="Bold"/>
+                            <TextBlock x:Name="txtInvoiceNumber" Foreground="#333"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Date of issue: " FontWeight="Bold"/>
+                            <TextBlock x:Name="txtInvoiceDate" Foreground="#333"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <Border Grid.Column="1"
+        Padding="15"
+        CornerRadius="8"
+        HorizontalAlignment="Right"
+        BorderBrush="#0F172A"       
+                        BorderThickness="2"
+                        SnapsToDevicePixels="True"
+        Effect="{DynamicResource DropShadow}">
+                        <StackPanel HorizontalAlignment="Center">
+                            <TextBlock Text="HSS" 
+                   FontWeight="Bold" 
+                   FontSize="16"
+                   TextAlignment="Center"/>
+                            <TextBlock Text="🏨" 
+                   FontSize="40" 
+                   TextAlignment="Center"
+                   Margin="0,5,0,0"/>
+                        </StackPanel>
+                    </Border>
+
+                </Grid>
+
+                <Separator Margin="0,0,0,20" Background="#ccc"/>
+
+                <!-- DETAIL TAMU -->
+                <StackPanel Margin="0,0,0,20">
+                    <TextBlock Text="🧍 Detail Tamu" 
+                               FontWeight="Bold" 
+                               FontSize="16"
+                               Foreground="#1E3A8A"
+                               Margin="0,0,0,10"/>
+                    <UniformGrid Columns="2" Rows="2" Margin="10,0,0,0">
+                        <TextBlock><Run FontWeight="Bold">Nama:</Run> <Run x:Name="txtNamaTamu"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">No Telp:</Run> <Run x:Name="txtNoTelp"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Jumlah Tamu:</Run> <Run x:Name="txtJumlahTamu"/></TextBlock>
+                    </UniformGrid>
+                </StackPanel>
+
+                <Separator Background="#ccc" Margin="0,0,0,20"/>
+
+                <!-- DETAIL KAMAR -->
+                <StackPanel Margin="0,0,0,20">
+                    <TextBlock Text="🛏️ Detail Kamar" 
+                               FontWeight="Bold" 
+                               FontSize="16"
+                               Foreground="#1E3A8A"
+                               Margin="0,0,0,10"/>
+                    <UniformGrid Columns="2" Rows="4" Margin="10,0,0,0">
+                        <TextBlock><Run FontWeight="Bold">Nama Kamar:</Run> <Run x:Name="txtNamaKamar"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Harga / Malam:</Run> <Run x:Name="txtHargaKamar"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Check In:</Run> <Run x:Name="txtCheckIn"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Check Out:</Run> <Run x:Name="txtCheckOut"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Lama Menginap:</Run> <Run x:Name="txtLamaMenginap"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Status Kamar:</Run> <Run x:Name="txtStatusKamar"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Catatan Khusus:</Run> <Run x:Name="txtCatatanKhusus"/></TextBlock>
+                    </UniformGrid>
+                </StackPanel>
+
+                <Separator Background="#ccc" Margin="0,0,0,20"/>
+
+                <!-- DETAIL TAGIHAN -->
+                <StackPanel Margin="0,0,0,20">
+                    <TextBlock Text="💰 Detail Tagihan" 
+                               FontWeight="Bold" 
+                               FontSize="16"
+                               Foreground="#1E3A8A"
+                               Margin="0,0,0,10"/>
+                    <UniformGrid Columns="2" Margin="10,0,0,0">
+                        <TextBlock><Run FontWeight="Bold">Total Tagihan:</Run> <Run x:Name="txtTotalTagihan" Foreground="#047857"/></TextBlock>
+                        <TextBlock><Run FontWeight="Bold">Status Pembayaran:</Run> <Run x:Name="txtStatusPembayaran" Foreground="#DC2626"/></TextBlock>
+                    </UniformGrid>
+                </StackPanel>
+
+                <!-- TOMBOL PRINT -->
+                <Button Content="🖨️ Cetak Invoice"
+                        Width="160"
+                        Height="40"
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Right"
+                        Background="#1E3A8A"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        BorderThickness="0"
+                        Cursor="Hand"
+                        Click="BtnPrint_Click"/>
+
+                <!-- FOOTER -->
+                <StackPanel Margin="0,30,0,0">
+                    <!-- Deskripsi Hotel -->
+                    <TextBlock x:Name="txtDeskripsiHotel"
+               Text="Terima kasih telah menggunakan layanan hotel kami."
+               FontSize="12"
+               Foreground="#555"
+               TextAlignment="Center"
+               TextWrapping="Wrap"/>
+
+                    <!-- Kontak Hotel -->
+                    <TextBlock x:Name="txtKontakHotel"
+               Text="📞 +62 123 4567 890 | ✉️ hotel@example.com"
+               FontSize="11"
+               Foreground="#777"
+               TextAlignment="Center"
+               Margin="0,5,0,0"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </ScrollViewer>
+</Window>

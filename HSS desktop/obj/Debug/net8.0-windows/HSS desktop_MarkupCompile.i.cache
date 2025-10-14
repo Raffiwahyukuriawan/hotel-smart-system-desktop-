@@ -1,0 +1,20 @@
+﻿HSS desktop
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\
+HSS_desktop
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\HSS desktop\HSS desktop\App.xaml
+34-1477298127
+
+57290658839
+220-1414987884
+about\AboutPage.xaml;about\TambahAbout.xaml;about\UpdateAbout.xaml;DashboardPage.xaml;foodDrink\FoodDrinkListView.xaml;foodDrink\FoodDrinkPage.xaml;foodDrink\riawyatFoodDrink\OrderHistoryView.xaml;foodDrink\riawyatFoodDrink\UpdateHistoryView.xaml;foodDrink\TambahFoodDrink.xaml;foodDrink\UpdateFoodDrink.xaml;kamar\KamarPage.xaml;kamar\kategori\KategoriKamar.xaml;kamar\kategori\TambahKategori.xaml;kamar\kategori\UpdateKategori.xaml;kamar\ManajemenKamar.xaml;kamar\riwayat\RiwayatKamar.xaml;kamar\riwayat\UpdateRiwayat.xaml;kamar\TambahKamar.xaml;kamar\UpdateKamar.xaml;LoginWindow.xaml;MainWindow.xaml;mejas\MejaPage.xaml;mejas\TambahMeja.xaml;mejas\UpdateMeja.xaml;tamu\Invoice.xaml;tamu\InvoiceKamar.xaml;tamu\InvoiceMakanan.xaml;tamu\TambahTamu.xaml;tamu\TamuPage.xaml;tamu\UpdateTamu.xaml;user\TambahUser.xaml;user\UpdateUserPage.xaml;user\UserForm.xaml;user\UserPage.xaml;
+
+False
+

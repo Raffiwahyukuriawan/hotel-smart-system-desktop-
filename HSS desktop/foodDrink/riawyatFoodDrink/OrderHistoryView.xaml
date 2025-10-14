@@ -1,0 +1,152 @@
+﻿<UserControl x:Class="HSS_desktop.OrderHistoryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             Background="White">
+
+    <Grid>
+        <StackPanel>
+
+            <!-- Header Bar -->
+            <Grid Margin="0,0,0,15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+            </Grid>
+
+            <!-- Table -->
+            <Border CornerRadius="6" BorderBrush="#E5E7EB" BorderThickness="1" Background="White">
+                <DataGrid x:Name="OrderGrid"
+          ItemsSource="{Binding RiwayatList}"
+          AutoGenerateColumns="False"
+          HeadersVisibility="Column"
+          CanUserAddRows="False"
+          CanUserDeleteRows="False"
+          CanUserResizeRows="False"
+          SelectionMode="Single"
+          Background="White"
+          GridLinesVisibility="None"
+          RowHeight="40"
+          BorderThickness="0"
+          FontSize="13"
+          IsReadOnly="True"
+          AlternatingRowBackground="#FAFAFA">
+                    <DataGrid.Columns>
+                        <!-- ID -->
+                        <DataGridTemplateColumn Header="ID" Width="60">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding No}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Menu -->
+                        <DataGridTemplateColumn Header="Menu" Width="150">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding NamaMenu}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Menu -->
+                        <DataGridTemplateColumn Header="Menu ID" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding MakananMinumanId}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Tanggal -->
+                        <DataGridTemplateColumn Header="Tanggal" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Tanggal, StringFormat={}{0:dd/MM/yyyy}}" 
+                           VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Jam Makan -->
+                        <DataGridTemplateColumn Header="Jam Makan" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding JamMakan}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <!-- Meja -->
+                        <DataGridTemplateColumn Header="Meja" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding NamaMeja}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Jumlah Tamu -->
+                        <DataGridTemplateColumn Header="Jumlah Tamu" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding JumlahTamu}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Jumlah Dipesan -->
+                        <DataGridTemplateColumn Header="Jumlah Dipesan" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding JumlahDipesan}" VerticalAlignment="Center" Padding="8,0,0,0"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Status -->
+                        <DataGridTemplateColumn Header="Status" Width="60">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Border CornerRadius="10"
+                        Padding="5,5,5,0">
+                                        <TextBlock Text="{Binding Status}"
+                               Foreground="Black"
+                               FontSize="12"
+                               HorizontalAlignment="Center"/>
+                                    </Border>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <!-- Aksi -->
+                        <DataGridTemplateColumn Header="Aksi" Width="100">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Button Content="✏️"
+                            Margin="2"
+                            Padding="4"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Cursor="Hand" Click="Edit_Click"/>
+                                        <Button Content="🗑️"
+                            Margin="2"
+                            Padding="4"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="Red"
+                            Cursor="Hand"
+                            Click="Delete_Click"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </Border>
+        </StackPanel>
+    </Grid>
+</UserControl>

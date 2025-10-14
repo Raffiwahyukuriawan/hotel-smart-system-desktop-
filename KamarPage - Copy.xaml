@@ -1,0 +1,128 @@
+﻿<Page x:Class="HSS_desktop.KamarPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:HSS_desktop"
+      Title="Manajemen Kamar">
+
+    <Page.Resources>
+        <!-- Converter untuk mengubah status menjadi warna -->
+        <local:StatusToColorConverter x:Key="StatusToColorConverter"/>
+    </Page.Resources>
+
+    <!-- Background dengan gradient -->
+    <Page.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="white" Offset="0"/>
+            <GradientStop Color="white" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <ScrollViewer Padding="20" Width="1070">
+        <StackPanel HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10">
+                <Button Content="➕ Tambah Kamar"
+                    Background="#0D92F4"
+                    Foreground="White"
+                    Padding="10,5"
+                    FontWeight="Bold"
+                    Width="130"
+                    Height="35"
+                    BorderThickness="0"
+                    Cursor="Hand"/>
+            </StackPanel>
+
+            <DataGrid AutoGenerateColumns="False"
+                          ItemsSource="{Binding KamarList}"
+                          CanUserAddRows="False"
+                          CanUserDeleteRows="False"
+                          IsReadOnly="True"
+                          SelectionMode="Single"
+                          AlternatingRowBackground="#e0e0e0"
+                          HeadersVisibility="Column"
+                          GridLinesVisibility="None"
+                          RowBackground="White"
+                          BorderBrush="#ccc"
+                          BorderThickness="0"
+                          RowHeight="35"
+                          FontSize="14"
+                          AlternationCount="2" Background="#FFABABAB" >
+
+                    <!-- Warna highlight saat dipilih -->
+                    <DataGrid.Resources>
+                        <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#4a90e2"/>
+                    </DataGrid.Resources>
+
+                    <!-- Style Header -->
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#A8BBA3"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="FontSize" Value="14"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                            <Setter Property="Padding" Value="8"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+
+                    <!-- Kolom Data -->
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="*">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Padding" Value="6,5,0,0"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="Nomor Kamar" Binding="{Binding Nomor}" Width="*">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Padding" Value="6,5,0,0"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="Tipe" Binding="{Binding Tipe}" Width="*">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Padding" Value="6,5,0,0"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+
+                        <!-- Kolom Status pakai icon -->
+                        <DataGridTemplateColumn Header="Status" Width="*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Ellipse Width="10" Height="10" Margin="6,0,5,0">
+                                            <Ellipse.Fill>
+                                                <Binding Path="Status" Converter="{StaticResource StatusToColorConverter}"/>
+                                            </Ellipse.Fill>
+                                        </Ellipse>
+                                        <TextBlock Text="{Binding Status}" Margin="0, 5, 0, 0"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                        <DataGridTextColumn Header="Harga" Binding="{Binding Harga}" Width="*">
+                            <DataGridTextColumn.ElementStyle>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Padding" Value="6,5,0,0"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                    <DataGridTemplateColumn Header="Aksi" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <Button Content="Edit" Margin="2" Padding="5,2" Background="#08CB00"/>
+                                    <Button Content="Hapus" Margin="2" Padding="5,2" Background="#E52020" Foreground="White" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+                </DataGrid>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

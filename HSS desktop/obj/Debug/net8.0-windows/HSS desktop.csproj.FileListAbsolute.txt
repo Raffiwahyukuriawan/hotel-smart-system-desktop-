@@ -1,0 +1,134 @@
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.csproj.AssemblyReference.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\AboutPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\TambahAbout.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\UpdateAbout.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\DashboardPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\FoodDrinkPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\riawyatFoodDrink\OrderHistoryView.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\riawyatFoodDrink\UpdateHistoryView.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\TambahFoodDrink.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\UpdateFoodDrink.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\KamarPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\KategoriKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\TambahKategori.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\UpdateKategori.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\ManajemenKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\riwayat\RiwayatKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\riwayat\UpdateRiwayat.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\TambahKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\UpdateKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\MainWindow.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\MejaPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\TambahMeja.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\UpdateMeja.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\Invoice.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\InvoiceKamar.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\InvoiceMakanan.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\TambahTamu.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\TamuPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\UpdateTamu.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\TambahUser.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UpdateUserPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UserForm.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\App.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\AboutPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\TambahAbout.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\about\UpdateAbout.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\DashboardPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\FoodDrinkListView.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\FoodDrinkPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\riawyatFoodDrink\OrderHistoryView.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\riawyatFoodDrink\UpdateHistoryView.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\TambahFoodDrink.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\UpdateFoodDrink.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\KamarPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\KategoriKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\TambahKategori.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\kategori\UpdateKategori.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\ManajemenKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\riwayat\RiwayatKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\riwayat\UpdateRiwayat.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\TambahKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\kamar\UpdateKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\MejaPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\TambahMeja.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\mejas\UpdateMeja.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\Invoice.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\InvoiceKamar.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\InvoiceMakanan.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\TambahTamu.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\TamuPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\tamu\UpdateTamu.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\TambahUser.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UpdateUserPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UserForm.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UserPage.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\App.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop_MarkupCompile.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop_MarkupCompile.lref
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\HSS desktop.exe
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\HSS desktop.deps.json
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\HSS desktop.runtimeconfig.json
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\HSS desktop.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\HSS desktop.pdb
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\HSS desktop\HSS desktop\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\foodDrink\FoodDrinkListView.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\user\UserPage.baml
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.g.resources
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS_desktop.Properties.Resources.resources
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.csproj.GenerateResource.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.AssemblyInfoInputs.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.AssemblyInfo.cs
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.csproj.CoreCompileInputs.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desk.FEAE9136.Up2Date
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.dll
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\refint\HSS desktop.dll
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.pdb
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.genruntimeconfig.cache
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\ref\HSS desktop.dll
