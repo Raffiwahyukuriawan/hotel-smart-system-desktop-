@@ -3,99 +3,88 @@
   "WorkspaceRootPath": "D:\\HSS desktop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicemakanan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicemakanan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicemakanan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicemakanan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e41724f4b730bb1f63aca1030c3b0b4c3b5c42733f43901d977dbf6f8dadd6\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\updateuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\updateuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\updateuserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\updateuserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\tambahuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\tambahuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\tambahuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\tambahuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\updateabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\updateabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\updateabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\updateabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\tambahabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\tambahabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\tambahabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\tambahabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\mejarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\mejarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\updatemeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\updatemeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\updatemeja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\updatemeja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\tambahmeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\tambahmeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\tambahmeja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\tambahmeja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\mejapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\mejapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\mejapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -106,100 +95,8 @@
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\updatetamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\updatetamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\updatekategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\updatekategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\tambahkategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\tambahkategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\updateriwayat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\updateriwayat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\riwayatkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\riwayatkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\manajemenkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\manajemenkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\tambahkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\tambahkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\updatekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\updatekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\tambahfooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\tambahfooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\updatefooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\updatefooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\updatehistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\updatehistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\updateabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\updateabout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tambahtamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tambahtamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\updatetamu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\updatetamu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\hss desktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\hss desktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\hss desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\hss desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\updateriwayat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\updateriwayat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\riwayatpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -210,40 +107,180 @@
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\updatehistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\updatehistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\updatehistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\riawyatfooddrink\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\makananminuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\makananminuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\updatefooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\updatefooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinklistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinklistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\updatefooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\updatefooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\riwayatkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\riwayatkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\tambahfooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\tambahfooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\tambahfooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\tambahfooddrink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinklistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinklistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinklistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinklistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\updatekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\updatekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\updatekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\updatekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\tambahkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\tambahkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\tambahkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\tambahkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\updatetamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\updatetamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicekamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\riwayatkamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\riwayatkamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\updateriwayat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\updateriwayat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\updateriwayat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\updateriwayat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\riwayatkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\riwayatkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\riwayat\\riwayatkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\riwayat\\riwayatkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\tambahkategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\tambahkategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\updatekategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\updatekategori.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\updatekategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\updatekategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\tambahkategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\tambahkategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\manajemenkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\manajemenkamar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\manajemenkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\manajemenkamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicekamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicemakanan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicemakanan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoicemakanan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoicemakanan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\updatetamu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\updatetamu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tamupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tamupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\invoice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -254,84 +291,63 @@
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\invoice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinklistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinklistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\tambahabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\tambahabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\updateabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\updateabout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\about\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\about\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\updatemeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\updatemeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\tambahmeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\tambahmeja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e41724f4b730bb1f63aca1030c3b0b4c3b5c42733f43901d977dbf6f8dadd6\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\mejapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\mejapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\tamu\\tambahtamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\tamu\\tambahtamu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\mejas\\mejarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\mejas\\mejarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\hss desktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\hss desktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\fooddrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\fooddrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\hss desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\hss desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\tambahuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\tambahuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\updateuserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\updateuserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\makananminuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\makananminuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\fooddrink\\tambahfooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\fooddrink\\tambahfooddrink.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HSS desktop\\HSS desktop\\obj\\Debug\\net8.0-windows\\tamu\\TambahTamu.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -349,22 +365,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HSS desktop\\obj\\Debug\\net8.0-windows\\layananResepsionis\\RiwayatLayananPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\tambahkategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\tambahkategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\updatekategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\updatekategori.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\kamar\\kategori\\kategorikamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\kamar\\kategori\\kategorikamar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|d:\\hss desktop\\hss desktop\\user\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211E3207-EBFC-41AC-9904-485DFF849B63}|HSS desktop\\HSS desktop.csproj|solutionrelative:hss desktop\\user\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -376,7 +376,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 69,
           "Children": [
             {
               "$type": "Bookmark",
@@ -384,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 80,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e41724f4b730bb1f63aca1030c3b0b4c3b5c42733f43901d977dbf6f8dadd6\\NavigationService.cs",
               "ToolTip": "C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e41724f4b730bb1f63aca1030c3b0b4c3b5c42733f43901d977dbf6f8dadd6\\NavigationService.cs [Read Only]",
@@ -395,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 81,
               "Title": "TambahTamu.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\TambahTamu.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\TambahTamu.xaml",
@@ -406,42 +406,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 67,
               "Title": "UpdateTamu.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\UpdateTamu.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\UpdateTamu.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\UpdateTamu.xaml.cs",
               "RelativeToolTip": "HSS desktop\\tamu\\UpdateTamu.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T01:29:05.604Z"
+              "WhenOpened": "2025-10-13T01:29:05.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "UpdateTamu.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\UpdateTamu.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\UpdateTamu.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\UpdateTamu.xaml",
               "RelativeToolTip": "HSS desktop\\tamu\\UpdateTamu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-13T01:25:27.576Z"
+              "WhenOpened": "2025-10-13T01:25:27.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 75,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\SessionManager.cs",
               "RelativeDocumentMoniker": "HSS desktop\\SessionManager.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\SessionManager.cs",
               "RelativeToolTip": "HSS desktop\\SessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T15:13:20.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 83,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\App.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\App.xaml.cs",
@@ -453,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 78,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\App.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\App.xaml",
@@ -465,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 82,
               "Title": "HSS desktop",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\HSS desktop.csproj",
               "RelativeDocumentMoniker": "HSS desktop\\HSS desktop.csproj",
@@ -476,19 +478,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 76,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\LoginWindow.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\LoginWindow.xaml.cs",
               "RelativeToolTip": "HSS desktop\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAASwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T14:10:31.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 77,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\LoginWindow.xaml",
@@ -499,56 +501,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 25,
               "Title": "UpdateHistoryView.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:21:03.394Z"
+              "WhenOpened": "2025-10-12T13:21:03.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 26,
               "Title": "UpdateHistoryView.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\riawyatFoodDrink\\UpdateHistoryView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-12T13:19:48.95Z"
+              "WhenOpened": "2025-10-12T13:19:48.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 65,
               "Title": "InvoiceMakanan.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceMakanan.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\InvoiceMakanan.xaml.cs",
-              "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceMakanan.xaml.cs*",
-              "RelativeToolTip": "HSS desktop\\tamu\\InvoiceMakanan.xaml.cs*",
-              "ViewState": "AgIAAF8AAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceMakanan.xaml.cs",
+              "RelativeToolTip": "HSS desktop\\tamu\\InvoiceMakanan.xaml.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAA7wJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T01:30:14.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 64,
               "Title": "InvoiceKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\InvoiceKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\tamu\\InvoiceKamar.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T01:13:53.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 46,
               "Title": "InvoiceKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\InvoiceKamar.xaml",
@@ -560,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 66,
               "Title": "InvoiceMakanan.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\InvoiceMakanan.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\InvoiceMakanan.xaml",
@@ -572,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 70,
               "Title": "Invoice.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\Invoice.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\Invoice.xaml.cs",
@@ -584,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 71,
               "Title": "Invoice.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\Invoice.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\Invoice.xaml",
@@ -595,311 +599,333 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 73,
               "Title": "DashboardPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\DashboardPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\DashboardPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\DashboardPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\DashboardPage.xaml.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAgwHMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAowJAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:20:46.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 72,
               "Title": "DashboardRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\DashboardRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\DashboardRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\DashboardRepository.cs",
               "RelativeToolTip": "HSS desktop\\DashboardRepository.cs",
-              "ViewState": "AgIAANoAAAAAAAAAAAAkwOUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAQwPcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:21:54.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 69,
               "Title": "TamuPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\TamuPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\tamu\\TamuPage.xaml.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAQwFEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswMUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T05:58:25.297Z"
+              "WhenOpened": "2025-10-08T05:58:25.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 44,
               "Title": "TamuPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\TamuPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuPage.xaml",
               "RelativeToolTip": "HSS desktop\\tamu\\TamuPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T05:19:01.527Z"
+              "WhenOpened": "2025-10-08T05:19:01.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 43,
               "Title": "DashboardPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\DashboardPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\DashboardPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\DashboardPage.xaml",
               "RelativeToolTip": "HSS desktop\\DashboardPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T04:03:30.147Z"
+              "WhenOpened": "2025-10-08T04:03:30.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 9,
               "Title": "UpdateAbout.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\UpdateAbout.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\about\\UpdateAbout.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\UpdateAbout.xaml.cs",
               "RelativeToolTip": "HSS desktop\\about\\UpdateAbout.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T01:38:18.249Z"
+              "WhenOpened": "2025-10-08T01:38:18.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 10,
               "Title": "UpdateAbout.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\UpdateAbout.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\about\\UpdateAbout.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\UpdateAbout.xaml",
               "RelativeToolTip": "HSS desktop\\about\\UpdateAbout.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T01:38:15.095Z"
+              "WhenOpened": "2025-10-08T01:38:15.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 11,
               "Title": "TambahAbout.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\TambahAbout.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\about\\TambahAbout.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\TambahAbout.xaml.cs",
               "RelativeToolTip": "HSS desktop\\about\\TambahAbout.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T01:32:51.894Z"
+              "WhenOpened": "2025-10-08T01:32:51.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "TambahAbout.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\TambahAbout.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\about\\TambahAbout.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\TambahAbout.xaml",
               "RelativeToolTip": "HSS desktop\\about\\TambahAbout.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T01:32:46.891Z"
+              "WhenOpened": "2025-10-08T01:32:46.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 13,
               "Title": "AboutPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\AboutPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\about\\AboutPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\AboutPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\about\\AboutPage.xaml.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwEgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T01:28:22.059Z"
+              "WhenOpened": "2025-10-08T01:28:22.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 14,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\AboutPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\about\\AboutPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\AboutPage.xaml",
               "RelativeToolTip": "HSS desktop\\about\\AboutPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T01:28:09.412Z"
+              "WhenOpened": "2025-10-08T01:28:09.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AboutRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\about\\AboutRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\about\\AboutRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\about\\AboutRepository.cs",
               "RelativeToolTip": "HSS desktop\\about\\AboutRepository.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAA1wFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T01:25:42.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 68,
               "Title": "TamuRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\tamu\\TamuRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\tamu\\TamuRepository.cs",
               "RelativeToolTip": "HSS desktop\\tamu\\TamuRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAYwPwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T12:58:58.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 16,
               "Title": "UpdateMeja.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\UpdateMeja.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\UpdateMeja.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\UpdateMeja.xaml.cs",
               "RelativeToolTip": "HSS desktop\\mejas\\UpdateMeja.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:31:01.75Z"
+              "WhenOpened": "2025-10-07T06:31:01.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "UpdateMeja.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\UpdateMeja.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\UpdateMeja.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\UpdateMeja.xaml",
               "RelativeToolTip": "HSS desktop\\mejas\\UpdateMeja.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-07T06:30:50.223Z"
+              "WhenOpened": "2025-10-07T06:30:50.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 15,
               "Title": "MejaRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\MejaRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaRepository.cs",
               "RelativeToolTip": "HSS desktop\\mejas\\MejaRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:33:29.803Z"
+              "WhenOpened": "2025-10-07T05:33:29.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 18,
               "Title": "TambahMeja.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\TambahMeja.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\TambahMeja.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\TambahMeja.xaml.cs",
               "RelativeToolTip": "HSS desktop\\mejas\\TambahMeja.xaml.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:30:46.009Z"
+              "WhenOpened": "2025-10-07T05:30:46.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "TambahMeja.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\TambahMeja.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\TambahMeja.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\TambahMeja.xaml",
               "RelativeToolTip": "HSS desktop\\mejas\\TambahMeja.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-07T05:27:10.681Z"
+              "WhenOpened": "2025-10-07T05:27:10.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 20,
               "Title": "MejaPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\MejaPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\mejas\\MejaPage.xaml.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:21:58.39Z"
+              "WhenOpened": "2025-10-07T05:21:58.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "MejaPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\mejas\\MejaPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\mejas\\MejaPage.xaml",
               "RelativeToolTip": "HSS desktop\\mejas\\MejaPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-07T05:21:48.925Z"
+              "WhenOpened": "2025-10-07T05:21:48.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 30,
               "Title": "MakananMinuman.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\MakananMinuman.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\MakananMinuman.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\MakananMinuman.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\MakananMinuman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:12:24.889Z"
+              "WhenOpened": "2025-09-25T04:12:24.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 31,
               "Title": "UpdateFoodDrink.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\UpdateFoodDrink.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\UpdateFoodDrink.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\UpdateFoodDrink.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\UpdateFoodDrink.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:02:02.962Z"
+              "WhenOpened": "2025-09-25T04:02:02.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 32,
               "Title": "UpdateFoodDrink.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\UpdateFoodDrink.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\UpdateFoodDrink.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\UpdateFoodDrink.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\UpdateFoodDrink.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T04:01:57.061Z"
+              "WhenOpened": "2025-09-25T04:01:57.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 29,
               "Title": "FoodDrinkRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\FoodDrinkRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkRepository.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\FoodDrinkRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAzwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:58:48.713Z"
+              "WhenOpened": "2025-09-25T03:58:48.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 33,
               "Title": "TambahFoodDrink.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\TambahFoodDrink.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\TambahFoodDrink.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\TambahFoodDrink.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\TambahFoodDrink.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:55:19.814Z"
+              "WhenOpened": "2025-09-25T03:55:19.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "TambahFoodDrink.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\TambahFoodDrink.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\TambahFoodDrink.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\TambahFoodDrink.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\TambahFoodDrink.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T03:55:11.603Z"
+              "WhenOpened": "2025-09-25T03:55:11.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 86,
               "Title": "KategoriRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\KategoriRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\KategoriRepository.cs",
@@ -911,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 59,
               "Title": "Kategori.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\Kategori.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\Kategori.cs",
@@ -919,11 +945,12 @@
               "RelativeToolTip": "HSS desktop\\kamar\\Kategori.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T02:41:45.336Z"
+              "WhenOpened": "2025-09-25T02:41:45.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 88,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -933,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 87,
               "Title": "TambahTamu.g.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\obj\\Debug\\net8.0-windows\\tamu\\TambahTamu.g.cs",
               "RelativeDocumentMoniker": "HSS desktop\\obj\\Debug\\net8.0-windows\\tamu\\TambahTamu.g.cs",
@@ -945,42 +972,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 41,
               "Title": "TambahKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\TambahKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\TambahKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\TambahKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\TambahKamar.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:53:22.673Z"
+              "WhenOpened": "2025-09-24T13:53:22.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 39,
               "Title": "UpdateKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\UpdateKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\UpdateKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\UpdateKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\UpdateKamar.xaml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAywD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:49:13.182Z"
+              "WhenOpened": "2025-09-24T13:49:13.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "UpdateKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\UpdateKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\UpdateKamar.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\UpdateKamar.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\UpdateKamar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-24T13:48:52.219Z"
+              "WhenOpened": "2025-09-24T13:48:52.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 85,
               "Title": "KamarRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\KamarRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\KamarRepository.cs",
@@ -992,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 89,
               "Title": "UpdateLayanan.g.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\obj\\Debug\\net8.0-windows\\layananResepsionis\\UpdateLayanan.g.cs",
               "RelativeDocumentMoniker": "HSS desktop\\obj\\Debug\\net8.0-windows\\layananResepsionis\\UpdateLayanan.g.cs",
@@ -1004,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 90,
               "Title": "RiwayatLayananPage.g.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\obj\\Debug\\net8.0-windows\\layananResepsionis\\RiwayatLayananPage.g.cs",
               "RelativeDocumentMoniker": "HSS desktop\\obj\\Debug\\net8.0-windows\\layananResepsionis\\RiwayatLayananPage.g.cs",
@@ -1016,194 +1046,209 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 24,
               "Title": "RiwayatPesanan.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\RiwayatPesanan.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\riawyatFoodDrink\\RiwayatPesanan.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\RiwayatPesanan.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\riawyatFoodDrink\\RiwayatPesanan.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwEUAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T10:49:53.334Z"
+              "WhenOpened": "2025-09-20T10:49:53.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "UpdateRiwayat.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:56:24.028Z"
+              "WhenOpened": "2025-09-20T04:56:24.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 49,
               "Title": "UpdateRiwayat.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\riwayat\\UpdateRiwayat.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-20T04:56:14.081Z"
+              "WhenOpened": "2025-09-20T04:56:14.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 47,
               "Title": "RiwayatKamarRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamarRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\riwayat\\RiwayatKamarRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamarRepository.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\riwayat\\RiwayatKamarRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:49:55.086Z"
+              "WhenOpened": "2025-09-20T04:49:55.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 3,
               "Title": "RoleToColorConverter.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\RoleToColorConverter.cs",
               "RelativeDocumentMoniker": "HSS desktop\\user\\RoleToColorConverter.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\RoleToColorConverter.cs",
               "RelativeToolTip": "HSS desktop\\user\\RoleToColorConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:14:33.129Z"
+              "WhenOpened": "2025-09-18T13:14:33.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 55,
               "Title": "UpdateKategori.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\UpdateKategori.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\UpdateKategori.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\UpdateKategori.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\UpdateKategori.xaml.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:34:50.509Z"
+              "WhenOpened": "2025-09-18T08:34:50.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 53,
               "Title": "UpdateKategori.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\UpdateKategori.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\UpdateKategori.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\UpdateKategori.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\UpdateKategori.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T08:32:47.232Z"
+              "WhenOpened": "2025-09-18T08:32:47.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 56,
               "Title": "TambahKategori.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\TambahKategori.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\TambahKategori.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\TambahKategori.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\TambahKategori.xaml.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:31:51.856Z"
+              "WhenOpened": "2025-09-18T08:31:51.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 52,
               "Title": "TambahKategori.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\TambahKategori.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\TambahKategori.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\TambahKategori.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\TambahKategori.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T08:31:42.879Z"
+              "WhenOpened": "2025-09-18T08:31:42.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 58,
               "Title": "KategoriKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\KategoriKamar.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamar.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\KategoriKamar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T08:28:42.299Z"
+              "WhenOpened": "2025-09-18T08:28:42.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 57,
               "Title": "KategoriKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\KategoriKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\KategoriKamar.xaml.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:27:02.194Z"
+              "WhenOpened": "2025-09-18T08:27:02.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 54,
               "Title": "KategoriKamarRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamarRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\kategori\\KategoriKamarRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\kategori\\KategoriKamarRepository.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\kategori\\KategoriKamarRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T08:18:03.479Z"
+              "WhenOpened": "2025-09-18T08:18:03.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UserRepository.cs",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UserRepository.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UserRepository.cs",
               "RelativeToolTip": "HSS desktop\\user\\UserRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAA6wEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T07:57:13.329Z"
+              "WhenOpened": "2025-09-18T07:57:13.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 1,
               "Title": "UpdateUserPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UpdateUserPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UpdateUserPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UpdateUserPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\user\\UpdateUserPage.xaml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T07:21:31.074Z"
+              "WhenOpened": "2025-09-18T07:21:31.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "UpdateUserPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UpdateUserPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UpdateUserPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UpdateUserPage.xaml",
               "RelativeToolTip": "HSS desktop\\user\\UpdateUserPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T07:20:17.704Z"
+              "WhenOpened": "2025-09-18T07:20:17.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 79,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\Database.cs",
               "RelativeDocumentMoniker": "HSS desktop\\Database.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\Database.cs",
               "RelativeToolTip": "HSS desktop\\Database.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T06:22:11.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 84,
               "Title": "HSS desktop.csproj",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\HSS desktop.csproj",
               "RelativeDocumentMoniker": "HSS desktop\\HSS desktop.csproj",
@@ -1227,134 +1272,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "UserForm.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UserForm.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UserForm.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UserForm.xaml",
               "RelativeToolTip": "HSS desktop\\user\\UserForm.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T03:35:21.085Z"
+              "WhenOpened": "2025-09-18T03:35:21.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 4,
               "Title": "TambahUser.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\TambahUser.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\user\\TambahUser.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\TambahUser.xaml.cs",
               "RelativeToolTip": "HSS desktop\\user\\TambahUser.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:31:37.971Z"
+              "WhenOpened": "2025-09-18T03:31:37.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "TambahUser.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\TambahUser.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\user\\TambahUser.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\TambahUser.xaml",
               "RelativeToolTip": "HSS desktop\\user\\TambahUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T03:31:21.905Z"
+              "WhenOpened": "2025-09-18T03:31:21.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "TambahKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\TambahKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\TambahKamar.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\TambahKamar.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\TambahKamar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T03:28:26.418Z"
+              "WhenOpened": "2025-09-18T03:28:26.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 6,
               "Title": "UserPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UserPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UserPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UserPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\user\\UserPage.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAA6wJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:20:46.542Z"
+              "WhenOpened": "2025-09-18T01:20:46.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "OrderHistoryView.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAYwG0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAA8wJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:17:48.681Z"
+              "WhenOpened": "2025-09-18T01:17:48.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 50,
               "Title": "RiwayatKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T01:06:04.783Z"
+              "WhenOpened": "2025-09-18T01:06:04.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 51,
               "Title": "RiwayatKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\riwayat\\RiwayatKamar.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:05:56.646Z"
+              "WhenOpened": "2025-09-18T01:05:56.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 60,
               "Title": "KamarPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\KamarPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\KamarPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\KamarPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\KamarPage.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:00:11.158Z"
+              "WhenOpened": "2025-09-18T01:00:11.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "ManajemenKamar.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\ManajemenKamar.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\ManajemenKamar.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\ManajemenKamar.xaml.cs",
               "RelativeToolTip": "HSS desktop\\kamar\\ManajemenKamar.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:58:02.458Z"
+              "WhenOpened": "2025-09-18T00:58:02.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 62,
               "Title": "ManajemenKamar.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\ManajemenKamar.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\ManajemenKamar.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\ManajemenKamar.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\ManajemenKamar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T00:55:22.508Z"
+              "WhenOpened": "2025-09-18T00:55:22.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\MainWindow.xaml",
@@ -1366,94 +1422,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 7,
               "Title": "UserPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\user\\UserPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\user\\UserPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\user\\UserPage.xaml",
               "RelativeToolTip": "HSS desktop\\user\\UserPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-14T14:07:33.16Z"
+              "WhenOpened": "2025-09-14T14:07:33.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 61,
               "Title": "KamarPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\kamar\\KamarPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\kamar\\KamarPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\kamar\\KamarPage.xaml",
               "RelativeToolTip": "HSS desktop\\kamar\\KamarPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-14T13:16:01.28Z"
+              "WhenOpened": "2025-09-14T13:16:01.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 37,
               "Title": "FoodDrinkListView.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkListView.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\FoodDrinkListView.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkListView.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\FoodDrinkListView.xaml.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T10:53:40.746Z"
+              "WhenOpened": "2025-09-14T10:53:40.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 38,
               "Title": "FoodDrinkListView.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkListView.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\FoodDrinkListView.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkListView.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\FoodDrinkListView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-14T10:51:12.535Z"
+              "WhenOpened": "2025-09-14T10:51:12.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 35,
               "Title": "FoodDrinkPage.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkPage.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\FoodDrinkPage.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkPage.xaml.cs",
               "RelativeToolTip": "HSS desktop\\foodDrink\\FoodDrinkPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T10:31:32.785Z"
+              "WhenOpened": "2025-09-14T10:31:32.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 74,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HSS desktop\\MainWindow.xaml.cs",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\MainWindow.xaml.cs",
               "RelativeToolTip": "HSS desktop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwI0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T10:19:45.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "FoodDrinkPage.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkPage.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\FoodDrinkPage.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\FoodDrinkPage.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\FoodDrinkPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-14T10:15:15.985Z"
+              "WhenOpened": "2025-09-14T10:15:15.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "OrderHistoryView.xaml",
               "DocumentMoniker": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml",
               "RelativeDocumentMoniker": "HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml",
               "ToolTip": "D:\\HSS desktop\\HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml",
               "RelativeToolTip": "HSS desktop\\foodDrink\\riawyatFoodDrink\\OrderHistoryView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-14T10:15:07.936Z"
+              "WhenOpened": "2025-09-14T10:15:07.936Z",
+              "EditorCaption": ""
             }
           ]
         }

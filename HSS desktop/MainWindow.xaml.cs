@@ -106,6 +106,25 @@ public partial class MainWindow : Window
         MainFrame.Navigate(page);
     }
 
+    private void BtnLogout_Click(object sender, RoutedEventArgs e)
+    {
+        // Konfirmasi logout
+        var result = MessageBox.Show("Yakin ingin logout?", "Konfirmasi Logout", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+        if (result == MessageBoxResult.Yes)
+        {
+            // Hapus session
+            SessionManager.ClearSession();
+
+            // Tampilkan kembali halaman login
+            var loginWindow = new LoginWindow(); // pastikan nama class login kamu sesuai
+            loginWindow.Show();
+
+            // Tutup window utama
+            this.Close();
+        }
+    }
+
     private void BtnUser(object sender, RoutedEventArgs e)
     {
         var page = new UserPage();
@@ -114,11 +133,6 @@ public partial class MainWindow : Window
             NavbarTextBlock.Text = title; // isi text di navbar
         };
         MainFrame.Navigate(page);
-    }
-
-    private void Button_Click(object sender, RoutedEventArgs e)
-    {
-
     }
 
     protected override void OnClosing(System.ComponentModel.CancelEventArgs e)

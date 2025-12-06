@@ -29,7 +29,7 @@
                 <!-- Kategori -->
                 <StackPanel Margin="0,0,0,15">
                     <TextBlock Text="📦 Kategori" FontSize="14" FontWeight="Bold" Foreground="#374151" Margin="5,0,0,5"/>
-                    <ComboBox x:Name="cmbKategori" Width="425" Height="35">
+                    <ComboBox x:Name="cmbKategori" Width="398" Height="35">
                         <ComboBoxItem Content="Makanan"/>
                         <ComboBoxItem Content="Minuman"/>
                     </ComboBox>
@@ -42,7 +42,7 @@
              FontSize="14" Padding="5"
              BorderBrush="#ced4da" BorderThickness="1"
              Background="#fff"
-             Width="425"/>
+             Width="398"/>
                 </StackPanel>
 
                 <!-- Nama -->
@@ -52,7 +52,7 @@
              FontSize="14" Padding="5"
              BorderBrush="#ced4da" BorderThickness="1"
              Background="#fff"
-             Width="425"/>
+             Width="398"/>
                 </StackPanel>
 
                 <!-- Harga -->
@@ -63,7 +63,7 @@
                  FontSize="14" Padding="5"
                  BorderBrush="#ced4da" BorderThickness="1"
                  Background="#fff"
-                 Width="425"
+                 Width="398"
                  PreviewTextInput="NumberOnly_PreviewTextInput"/>
                     </DockPanel>
                 </StackPanel>

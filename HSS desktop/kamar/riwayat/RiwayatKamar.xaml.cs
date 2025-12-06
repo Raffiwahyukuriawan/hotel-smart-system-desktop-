@@ -57,6 +57,30 @@ namespace HSS_desktop
             }
         }
 
+        private void Print_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                PrintDialog printDialog = new PrintDialog();
+
+                // Minta user pilih printer
+                if (printDialog.ShowDialog() == true)
+                {
+                    // Buat tampilan yang akan dicetak (bisa DataGrid langsung)
+                    Size pageSize = new Size(printDialog.PrintableAreaWidth, printDialog.PrintableAreaHeight);
+                    RiwayatGrid.Measure(pageSize);
+                    RiwayatGrid.Arrange(new Rect(new Point(0, 0), pageSize));
+
+                    // Cetak DataGrid
+                    printDialog.PrintVisual(RiwayatGrid, "Cetak Riwayat Kamar");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Gagal mencetak: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
             var btn = sender as Button;

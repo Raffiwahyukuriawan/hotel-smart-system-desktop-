@@ -22,18 +22,18 @@
                                    Foreground="#111827"
                                    VerticalAlignment="Center"
                                    DockPanel.Dock="Left"/>
-                        <Button Content="+ Tambah Tamu"
-                                Background="#111827"
-                                Foreground="White"
-                                Padding="10,6"
-                                FontWeight="SemiBold"
-                                Width="140"
-                                Height="35"
-                                BorderThickness="0"
-                                Cursor="Hand"
-                                HorizontalAlignment="Right"
-                                DockPanel.Dock="Right"
-                                Click="TambahTamu_Click"/>
+
+                        <Button Content="🖨 Print"
+            Width="80"
+            Height="28"
+            Background="#2563EB"
+            Foreground="White"
+            FontWeight="SemiBold"
+            Cursor="Hand"
+            Margin="20,0,0,0"
+            BorderThickness="0"
+            HorizontalAlignment="Right"
+            Click="Print_Click"/>
                     </DockPanel>
 
                     <!-- DataGrid -->

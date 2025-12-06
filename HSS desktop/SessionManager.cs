@@ -12,5 +12,12 @@
             Username = null;
             Role = null;
         }
+
+        public static void ClearSession()
+        {
+            Username = string.Empty;
+            Role = string.Empty;
+        }
+
     }
 }

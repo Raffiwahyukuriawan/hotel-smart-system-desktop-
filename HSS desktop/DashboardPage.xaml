@@ -16,8 +16,9 @@
                        FontWeight="Bold"
                        Foreground="White"
                        HorizontalAlignment="Center"
+                       FontFamily="Segoe UI Semibold"
                        Margin="0,0,0,5"/>
-                        <TextBlock Text="Dashboard Management System"
+                        <TextBlock Text="Hotel Smart System"
                        FontSize="20"
                        Foreground="White"
                        HorizontalAlignment="Center"/>

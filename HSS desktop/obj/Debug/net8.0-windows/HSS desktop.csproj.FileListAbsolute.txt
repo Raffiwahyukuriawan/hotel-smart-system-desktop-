@@ -132,3 +132,4 @@ D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\refint\HSS desktop.dll
 D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.pdb
 D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.genruntimeconfig.cache
 D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\ref\HSS desktop.dll
+D:\HSS desktop\HSS desktop\obj\Debug\net8.0-windows\HSS desktop.sourcelink.json

@@ -67,8 +67,8 @@
                     <ComboBox x:Name="cmbStatus" FontSize="14" Padding="5"
               BorderBrush="#D1D5DB" BorderThickness="1"
               Background="#F9FAFB" Width="425">
-                        <ComboBoxItem Content="🟢 Kosong" IsSelected="True"/>
-                        <ComboBoxItem Content="🔴 Terisi"/>
+                        <ComboBoxItem Content="kosong" IsSelected="True"/>
+                        <ComboBoxItem Content="terisi"/>
                     </ComboBox>
                 </StackPanel>
 

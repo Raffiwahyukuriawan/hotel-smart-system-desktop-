@@ -11,6 +11,18 @@
                        Foreground="#111827"
                        VerticalAlignment="Center"
                        DockPanel.Dock="Left"/>
+
+            <Button Content="🖨 Print"
+            Width="80"
+            Height="28"
+            Background="#2563EB"
+            Foreground="White"
+            FontWeight="SemiBold"
+            Cursor="Hand"
+            BorderThickness="0"
+            DockPanel.Dock="Right"
+            HorizontalAlignment="Right"
+            Click="Print_Click"/>
         </DockPanel>
 
         <!-- Tabel -->

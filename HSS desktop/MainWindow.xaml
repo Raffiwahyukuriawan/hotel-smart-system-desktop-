@@ -160,6 +160,17 @@
                     Background="Transparent" BorderThickness="0" 
                     FontSize="16" Margin="0,0,10,0"/>
 
+                    <Button x:Name="BtnLogout"
+        Content="🔓" 
+        Width="32" Height="32"
+        Background="Transparent" 
+        BorderThickness="0"
+        FontSize="16" 
+        Margin="0,0,10,0"
+        ToolTip="Logout"
+        Click="BtnLogout_Click"/>
+
+
                     <!-- User Info -->
                     <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
                         <Ellipse Width="35" Height="35" Fill="#2563EB"/>

@@ -15,6 +15,28 @@
 
             </Grid>
 
+            <!-- Header -->
+            <DockPanel Margin="0,0,0,15">
+                <TextBlock Text="Riwayat Pemesanan Makanan &amp; Minuman"
+                FontSize="16"
+                FontWeight="Bold"
+                Foreground="#111827"
+                VerticalAlignment="Center"
+                DockPanel.Dock="Left"/>
+
+                <Button Content="🖨 Print"
+     Width="80"
+     Height="28"
+     Background="#2563EB"
+     Foreground="White"
+     FontWeight="SemiBold"
+     Cursor="Hand"
+     BorderThickness="0"
+     DockPanel.Dock="Right"
+     HorizontalAlignment="Right"
+     Click="Print_Click"/>
+            </DockPanel>
+
             <!-- Table -->
             <Border CornerRadius="6" BorderBrush="#E5E7EB" BorderThickness="1" Background="White">
                 <DataGrid x:Name="OrderGrid"

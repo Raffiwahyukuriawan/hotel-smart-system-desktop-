@@ -188,7 +188,7 @@ namespace HSS_desktop {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HSS desktop;component/tamu/invoicekamar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HSS desktop;V1.0.0.0;component/tamu/invoicekamar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\tamu\InvoiceKamar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
